@@ -1,1 +1,3 @@
-LoL what the rules!
+# References
+
+* octocat 1 😈
